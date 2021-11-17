@@ -15,7 +15,7 @@ now = datetime.now()
 url = "https://api.quiverquant.com/beta/historical/congresstrading/"+str(var)
 headers = {'accept': 'application/json',
 'X-CSRFToken': 'TyTJwjuEC7VV7mOqZ622haRaaUr0x0Ng4nrwSRFKQs7vdoBcJlK9qjAS69ghzhFu',
-'Authorization': 'Token 51fe4d1e20622e27494e727f7df3662ea3dcc65e'
+'Authorization': 'Token {your token here}'
 }
 r = requests.get(url, headers=headers)
 
