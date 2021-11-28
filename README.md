@@ -8,4 +8,4 @@ Returns Congresspeoples' stock transactions by ticker
 
  <br>
 
-Expose the rich
+
