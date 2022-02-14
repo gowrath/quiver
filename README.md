@@ -1,6 +1,8 @@
 # quiver
 
-This is a small Python script I wrote to scrape data from Quiver Quant, which is a website that aggregates stock trades. 
+This is a small Python script I wrote to scrape data from Quiver Quant, an API that scrapes 
+
+stock trades. 
 
 
 Instructions:
