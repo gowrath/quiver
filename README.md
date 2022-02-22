@@ -7,10 +7,10 @@ stock trades.
 
 Instructions:
 
-Run in Terminal  <br>
-Input is the stock ticker  <br>
-Using Quiver API  <br>
-Returns Congresspeoples' stock transactions by ticker
+1. Run in Terminal  <br>
+2. Input is the stock ticker  <br>
+3. Using Quiver API  <br>
+4. Returns Congresspeoples' stock transactions by ticker
 
  <br>
 
